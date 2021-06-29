@@ -1,0 +1,25 @@
+.maindiv {
+    text-align: center;
+    margin-top: 8%;
+    width: max-content;
+}
+
+.d1 {
+    border: solid black;
+    width: max-content;
+    padding: 10%;
+    border-radius: 15px;
+}
+
+.d2 {
+    text-align: center;
+    margin-bottom: 15px;
+    width: 20rem;
+    line-height: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.btn {
+    color: white;
+    border-radius: 5px;
+}

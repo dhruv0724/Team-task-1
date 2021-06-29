@@ -1,0 +1,12 @@
+<div class="container d1 ">
+    <div class="border border-10 rounded d2" *ngFor="let obj of teams ">
+        <div class="card-body ">
+            <h5 class="card-title ">{{obj.name}}</h5>
+
+            <h6 class="card-subtitle ">{{obj.members.length}} Members</h6>
+
+            <button class="btn btn-primary " (click)="userstab(obj, obj.name, obj.id)">{{obj.name}}</button>
+
+        </div>
+    </div>
+</div>

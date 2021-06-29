@@ -1,0 +1,15 @@
+<div class="container maindiv">
+    <div class="d1">
+        <div class="card-title text-decoration-underline">
+            <h2>{{teamName}}</h2>
+        </div>
+        <div class="border border-10 rounded d2" *ngFor="let obj of users ">
+
+            <h1>{{obj.comman}}</h1>
+            <h5 class="card-title ">{{obj.fullName}}</h5>
+
+            <h6 class="card-subtitle bg-success btn">{{obj.role}}</h6>
+
+        </div>
+    </div>
+</div>

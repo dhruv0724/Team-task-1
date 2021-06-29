@@ -1,0 +1,7 @@
+[
+    { "id": "u1", "fullName": "Rahul Yadav", "role": "Engineer" },
+    { "id": "u2", "fullName": "Praveen Kumar", "role": "Engineer" },
+    { "id": "u3", "fullName": "Julie Jones", "role": "Engineer" },
+    { "id": "u4", "fullName": "Alex Blackfield", "role": "Consultant" },
+    { "id": "u5", "fullName": "Marie Smith", "role": "Consultant" }
+]
